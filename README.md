@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Morgane, I have been a student for 2 years. I want to become a developer, and create my dream!
+My name is Morgane, I have been a student for 1 years. I want to become a developer, and create my dream!
 <!--
 **mgcrr/mgcrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
